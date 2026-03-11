@@ -84,4 +84,11 @@ def lambda_handler(event, context):
         "AWS S3 was launched in 2006 and still rules cloud storage.",
         "Cloud computing can save companies up to 30% on IT costs.",
         "EC2 was one of the first AWS services to change IT forever.",
-       
+    ]
+    
+    fact = random.choice(facts)
+    return {
+        "statusCode": 200,
+        "headers": {"Content-Type": "application/json"},
+        "body": json.dumps({"fact": fact})
+    }
