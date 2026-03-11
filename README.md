@@ -17,7 +17,8 @@ to create a simple serverless application.
 ## Architecture
 
 User
- ↓
+ <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/7f4fed2b-e321-459e-9e75-59c283fb0e28" />
+
 Frontend Website
  ↓
 API Gateway
