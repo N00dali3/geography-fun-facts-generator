@@ -77,18 +77,19 @@ Response returned to user
 
 ```python
 import json
-import random
-
-facts = [
-    "Cloud computing allows businesses to scale instantly.",
-    "AWS launched in 2006 with S3 and EC2.",
-    "Cloud providers operate data centers around the world."
-]
 
 def lambda_handler(event, context):
-    fact = random.choice(facts)
-
+    # TODO implement
     return {
         'statusCode': 200,
-        'body': json.dumps({'fact': fact})
+        'body': json.dumps('Hello from Lambda!')
     }
+import random
+import json
+
+def lambda_handler(event, context):
+    facts = [
+        "AWS S3 was launched in 2006 and still rules cloud storage.",
+        "Cloud computing can save companies up to 30% on IT costs.",
+        "EC2 was one of the first AWS services to change IT forever.",
+       
