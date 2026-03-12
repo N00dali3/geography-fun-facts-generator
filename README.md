@@ -74,6 +74,9 @@ Response returned to user
 ### DynamoDB Table
 ![DynamoDB](screenshots/dynamodbtable.png)
 
+### IAM
+![IAM](screenshots/IAM.png)
+
 ---
 
 ## Example Lambda Function
