@@ -74,7 +74,7 @@ Response returned to user
 ### DynamoDB Table
 ![DynamoDB](screenshots/dynamodbtable.png)
 
-### IAM
+### IAM Permissions
 ![IAM](screenshots/IAM.png)
 
 ---
