@@ -64,7 +64,9 @@ Response returned to user
 ![Generated Fact](screenshots/GeoFunFactsApp2.png)
 
 ### API Gateway Endpoint
-![API](screenshots/api-gateway.png)
+![Create API] Create API (screenshots/createapi.png)
+![API](screenshots/API.png)
+![API Browser Test](APITest.png)
 
 ### Lambda Function
 ![Lambda](screenshots/lambda-function.png)
