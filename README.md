@@ -53,7 +53,7 @@ Response returned to user
 
 ## Architecture Diagram
 
-![Architecture Diagram](Architecture/Geo Fun Facts Diagram.png)
+![Architecture Diagram](Architecture/GeoDiagram.png)
 
 ---
 
