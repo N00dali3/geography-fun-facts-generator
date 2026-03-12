@@ -77,6 +77,9 @@ Response returned to user
 ### IAM Permissions
 ![IAM](screenshots/IAM.png)
 
+### CloudWatch Log Group
+![Cloudwatch log](screenshots/CloudWatch.png)
+
 ---
 
 ## Example Lambda Function
